@@ -18,7 +18,7 @@ The dataset I used is the Flickr8K dataset.
 ##### (2) Generated caption: a woman in the goggles .
 ![alt text](results/hard_2.png "hard example 2")
 
-![alt text](results/hard-score.png "BLEU scores of hard model")
+##### BLEU Scores:
 ![alt text](results/hard-box.png "box plot of the BLEU score")
 
 #### Deterministic Soft Attention Model
@@ -29,5 +29,5 @@ The dataset I used is the Flickr8K dataset.
 ##### (2) Generated caption: a man ride his moterocycle down a sidewalk .
 ![alt text](results/soft_2.png "soft example 2")
 
-![alt text](results/soft-score.png "BLEU scores of soft model")
+##### BLEU Scores:
 ![alt text](results/soft-box.png "box plot of the BLEU score")
